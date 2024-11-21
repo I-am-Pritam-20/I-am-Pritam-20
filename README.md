@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @I-am-Pritam-20
+- 👋 Hi, I’m Pritam Nanda
 
 
 <!---
