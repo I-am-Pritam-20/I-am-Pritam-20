@@ -1,4 +1,28 @@
 - 👋 Hi, I’m Pritam Nanda
+<h1 align="center">
+  <span class="typewriter">I am a Developer</span>
+</h1>
+
+<style>
+@keyframes typing {
+  from { width: 0; }
+  to { width: 100%; }
+}
+
+@keyframes blink {
+  50% { border-color: transparent; }
+}
+
+.typewriter {
+  display: inline-block;
+  overflow: hidden;
+  white-space: nowrap;
+  border-right: 2px solid;
+  font-size: 1.5rem;
+  animation: typing 3s steps(30, end), blink 0.5s step-end infinite;
+  width: 12ch;
+}
+</style>
 
 
 <!---
