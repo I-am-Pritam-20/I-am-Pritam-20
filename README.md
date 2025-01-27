@@ -56,7 +56,7 @@
 <br/><br/><br/>
 <div align="center"> 
     
-<img src="https://github-readme-stats.vercel.app/api?username=I-am-Pritam-20&show_icons=true&theme=dark" alt="I-am-Pritam-20" /> <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-am-Pritam-20&theme=dark&layout=compact" alt="I-am-Pritam-20"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=I-am-Pritam-20&show_icons=true&theme=dark" alt="I-am-Pritam-20" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-am-Pritam-20&theme=dark&layout=compact" alt="I-am-Pritam-20"/>
 
 </div>
