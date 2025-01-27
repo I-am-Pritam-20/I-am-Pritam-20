@@ -14,7 +14,7 @@
 *💫 FUN FACT* <br/>
 **😂 I play VALORANT 😂**
 
-<br/><br/>
+<br/>![](https://komarev.com/ghpvc/?username=I-am-Pritam-20)<br/>
 <h1>🌐 SOCIALS</h1>
 <a href="https://www.linkedin.com/in/pritam-nanda-linkdin/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
