@@ -10,11 +10,7 @@
 😊 **Feel free to ask !**
 
 📧 Mail me at : **pritamnanda504@gmail.com**  
-Visit my website 
-----------------
-<a href="https://pritam--portfolio.vercel.app">
-    <img src="https://githubusercontent"/>
-</a>
+
 <br/><br/>
 *💫 FUN FACT* <br/>
 **😂 I play VALORANT 😂**
@@ -24,9 +20,14 @@ Visit my website
 <a href="https://www.linkedin.com/in/pritam-nanda-linkdin/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
 <!--     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> -->
-</a><br/>LinkedIn
+</a><br/>LinkedIn  <br></br>
 
-<br/><br/><br/>
+👇 **Visit my website** 👇 <br></br>
+<a href="https://pritam--portfolio.vercel.app">
+    <img src="https://github.com/I-am-Pritam-20/I-am-Pritam-20/blob/main/pn-logo.png" alt="logo" width="48" height="48"/>
+</a> <br/>
+My Portfolio
+<br/><br/>
 </div>
 <div align="center">
     
