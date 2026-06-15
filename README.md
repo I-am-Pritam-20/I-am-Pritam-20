@@ -23,7 +23,7 @@
 </a><br/>LinkedIn  <br></br>
 
 👇 **Visit my website** 👇 <br></br>
-<a href="https://pritam--portfolio.vercel.app">
+<a href="https://pritam-nanda.in/">
     <img src="https://github.com/I-am-Pritam-20/I-am-Pritam-20/blob/main/pn-logo.png" alt="logo" width="48" height="48"/>
 </a> <br/>
 My Portfolio
